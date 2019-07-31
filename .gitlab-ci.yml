@@ -70,4 +70,4 @@ production:
   environment:
     name: production
     url: $URL_PRODUCTION
-    when: manual
+  when: manual
