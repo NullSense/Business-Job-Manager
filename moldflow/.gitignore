@@ -3,3 +3,5 @@ moldflow/__pycache__/
 __pycache__/
 htmlcov/
 .mypy_cache/
+.coverage
+/media
