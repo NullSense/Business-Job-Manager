@@ -13,7 +13,7 @@ export default props => {
           </Content>
         </Layout>
       </Content>
-      <Footer style={{ textAlign: 'center' }}>Moldflow.ml ©2019</Footer>
+      <Footer style={{ textAlign: 'center' }}>backend.ml ©2019</Footer>
     </Layout>
   );
 };

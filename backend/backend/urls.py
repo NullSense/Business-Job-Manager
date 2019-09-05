@@ -12,8 +12,8 @@ urlpatterns = [
     ),  # add login to api
 ]
 
-admin.site.site_header = "Moldflow on Demand administration"
-admin.site.site_title = "MoD"
+admin.site.site_header = "Backend on Demand administration"
+admin.site.site_title = "Admin"
 admin.site.index_title = "Administration"
 
 urlpatterns += staticfiles_urlpatterns()  # static files for gunicorn
